@@ -1,0 +1,43 @@
+[info] Packaging C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\progfun1-objsets-without-resources_2.13-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	objsets\TweetData.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetData.class
+[debug] 	objsets\NonEmpty.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\NonEmpty.class
+[debug] 	objsets\Main$delayedInit$body.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Main$delayedInit$body.class
+[debug] 	objsets\TweetSet.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetSet.class
+[debug] 	objsets\TweetReader$ParseTweets$.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetReader$ParseTweets$.class
+[debug] 	objsets\Tweet.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Tweet.class
+[debug] 	objsets\TweetReader.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetReader.class
+[debug] 	objsets\Main.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Main.class
+[debug] 	objsets\TweetData$.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetData$.class
+[debug] 	objsets\Nil$.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Nil$.class
+[debug] 	objsets\Main$.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Main$.class
+[debug] 	objsets\GoogleVsApple$.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\GoogleVsApple$.class
+[debug] 	objsets\TweetReader$.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetReader$.class
+[debug] 	objsets
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets
+[debug] 	objsets\Empty.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Empty.class
+[debug] 	objsets\TweetSetInterface.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetSetInterface.class
+[debug] 	objsets\TweetList.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\TweetList.class
+[debug] 	objsets\Nil.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Nil.class
+[debug] 	objsets\Cons.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\Cons.class
+[debug] 	objsets\GoogleVsApple.class
+[debug] 	  C:\Users\tprjo\Documents\scala_course\course1\objsets\target\scala-2.13\classes\objsets\GoogleVsApple.class
+[info] Done packaging.

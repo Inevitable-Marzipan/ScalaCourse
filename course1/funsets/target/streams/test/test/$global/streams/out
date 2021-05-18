@@ -1,0 +1,31 @@
+[debug] javaOptions: Vector()
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(funsets.FunSetSuite, sbt.ForkMain$AnnotatedFingerscan@59960997, false, [SuiteSelector])
+[info] Test run started
+[info] Test funsets.FunSetSuite.singleton set one contains one started
+[debug] Test funsets.FunSetSuite.singleton set one contains one finished, took 0.183 sec
+[info] Test funsets.FunSetSuite.union contains all elements of each set started
+[error] Test funsets.FunSetSuite.union contains all elements of each set failed: scala.NotImplementedError: an implementation is missing, took 0.008 sec
+[error]     at scala.Predef$.???(Predef.scala:347)
+[error]     at funsets.FunSets.union(FunSets.scala:28)
+[error]     at funsets.FunSets.union$(FunSets.scala:28)
+[error]     at funsets.FunSets$.union(FunSets.scala:92)
+[error]     at funsets.FunSetSuite$$anon$2.this(FunSetSuite.scala:67)
+[error]     at funsets.FunSetSuite.union contains all elements of each set(FunSetSuite.scala:66)
+[error]     at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[error]     at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[error]     at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[error]     at java.lang.reflect.Method.invoke(Method.java:566)
+[error]     ...
+[debug] Test funsets.FunSetSuite.union contains all elements of each set finished, took 0.019 sec
+[info] Test funsets.FunSetSuite.contains is implemented started
+[debug] Test funsets.FunSetSuite.contains is implemented finished, took 0.005 sec
+[info] Test run finished: 1 failed, 0 ignored, 3 total, 0.315s
+[debug]     Produced 0 nested tasks and 3 events.
+[debug] Summary for JUnit not available.
+[error] Failed: Total 3, Failed 1, Errors 0, Passed 2
+[error] Failed tests:
+[error] 	funsets.FunSetSuite
+[error] (Test / test) sbt.TestsFailedException: Tests unsuccessful

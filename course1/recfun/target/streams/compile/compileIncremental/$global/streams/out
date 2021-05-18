@@ -1,0 +1,51 @@
+[debug] Full compilation, no sources in previous analysis.
+[debug] All sources are invalidated.
+[debug] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources
+[info] Compiling 2 Scala sources to C:\Users\tprjo\Documents\scala_course\alt\recfun\target\scala-2.13\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.0. Compiling...
+[debug] Creating plain compiler interface for 2.13.0.
+[debug]   > Arguments: 
+[debug] 	-nowarn
+[debug] 	-d
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_b6648efc
+[debug] 	-bootclasspath
+[debug] 	C:\Users\tprjo\Documents\scala_course\alt\recfun\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar
+[debug] 	-classpath
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_b38aa031\jars\org.scala-sbt\compiler-interface\compiler-interface-1.2.5.jar;C:\Users\tprjo\AppData\Local\Temp\sbt_b38aa031\jars\org.scala-sbt\util-interface\util-interface-1.2.2.jar;C:\Users\tprjo\AppData\Local\Temp\sbt_b38aa031\srcs\org.scala-sbt\compiler-bridge_2.13\compiler-bridge_2.13-1.2.5-sources.jar;C:\Users\tprjo\Documents\scala_course\alt\recfun\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.0\scala-compiler-2.13.0.jar;C:\Users\tprjo\Documents\scala_course\alt\recfun\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.0\scala-reflect-2.13.0.jar;C:\Users\tprjo\Documents\scala_course\alt\recfun\null\Coursier\cache\v1\https\repo1.maven.org\maven2\jline\jline\2.14.6\jline-2.14.6.jar
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\API.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\Analyzer.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\CallbackGlobal.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\ClassName.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\Command.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\Compat.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\CompilerInterface.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\ConsoleInterface.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\DelegatingReporter.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\Dependency.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\ExtractAPI.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\ExtractUsedNames.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\GlobalHelpers.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\InteractiveConsoleFactory.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\InteractiveConsoleHelper.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\InteractiveConsoleInterface.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\InteractiveConsoleResponse.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\JavaUtils.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\LocalToNonLocalClass.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\LocateClassFile.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\Log.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\Message.scala
+[debug] 	C:\Users\tprjo\AppData\Local\Temp\sbt_7ec481e5\xsbt\ScaladocInterface.scala
+[debug]       
+[info]   Compilation completed in 8.245s.
+[debug] Getting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0
+[debug] [zinc] Running cached compiler 28263294 for Scala compiler version 2.13.0
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-language:implicitConversions
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	C:\Users\tprjo\Documents\scala_course\alt\recfun\null\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar
+[debug] 	-classpath
+[debug] 	C:\Users\tprjo\Documents\scala_course\alt\recfun\target\scala-2.13\classes
+[debug] Scala compilation took 9.634868 s
+[info] Done compiling.
